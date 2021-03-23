@@ -4,6 +4,7 @@ using UnityEngine;
 using System.Reflection;
 using GorillaLocomotion;
 using System.Linq;
+using System;
 
 namespace MonkeCosmeticsHider
 {
