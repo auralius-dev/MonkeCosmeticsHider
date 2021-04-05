@@ -1,7 +1,6 @@
 # Monke Cosmetics Hider
 Hides your cosmetics from your local VR view so that you can see without getting distracted!
 
-*Not guaranteed to work well with other mods.*
 ## [Direct Download](https://github.com/auralius-dev/MonkeCosmeticsHider/releases/download/1.0.0.0/MonkeCosmeticsHider.dll)
 
 # Installing
